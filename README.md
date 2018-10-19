@@ -1,9 +1,15 @@
 # Azure IoT Reference Design
 Guide to Terraforming IoT Reference Design in Azure
 
+### Getting started
+
+1. Go to shell.azure.com
+2. git clone this repo
+3. navigate to the cloned root
+4. use the terraform commands to build or tear down Azure Resources
 
 ### Terraform commnds
-terraform init - inits the workspacke
+terraform init - inits the workspace
 
 terraform plan - checks for errors
 
