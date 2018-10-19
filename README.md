@@ -1,5 +1,5 @@
-# azure-IoT-Reference-Archeticture
-Guide to Terraforming IoT Reference Architecture in Azure
+# Azure IoT Reference Design
+Guide to Terraforming IoT Reference Design in Azure
 
 
 ### Terraform commnds
