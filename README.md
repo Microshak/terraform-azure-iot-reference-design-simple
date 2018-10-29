@@ -24,7 +24,7 @@ Instead of installing the Azure CLI, setting up a Service Principal and the rest
 We have made the Terraform experience as simple as possible, as all of the environment details are setup based on your default account through the Azure CLI.
 
 
-[![Alt text](https://img.youtube.com/vi/6t4tgS_JwO0/0.jpg)](https://www.youtube.com/watch?v=6t4tgS_JwO0)
+[![Alt text](https://img.youtube.com/vi/6t4tgS_JwO0/1.jpg)](https://www.youtube.com/watch?v=6t4tgS_JwO0)
 
 ![alt text](https://github.com/justindavies/TerraformOnAzure/raw/master/images/using-cloud-shell-it-has-my-terraform-variables.jpg "Win!")
 
